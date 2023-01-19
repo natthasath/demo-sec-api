@@ -1,6 +1,6 @@
-# 🎉 Template Python FastAPI
+# 🎉 Demo SEC API
 
-FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. It has a simple and easy to use API, is lightweight, and includes features like asynchronous support, dependency injection, and more.
+The SEC of Thailand is a government agency that regulates securities and derivatives markets, protects investors, and maintains market integrity. It also provides an API for accessing market data and other information.
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
